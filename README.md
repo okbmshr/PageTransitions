@@ -2,13 +2,8 @@
 
 画面イメージ　　
 
-https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png
-
-![メイン画面](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png)
-
-![遷移後画面](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/遷移後画面.png)
-
-<img alt=”メイン画面” src=”https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png” />
+https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png　　
+https://github.com/masahiro-okubo/PageTransitions/tree/master/img/遷移後画面.png　　
 
 下記サイト参考　　
 

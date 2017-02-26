@@ -7,9 +7,9 @@
 //
 
 import XCTest
-@testable import DrugTestTests
+@testable import PageTransitionsTests
 
-class DrugTestTests: XCTestCase {
+class PageTransitionsTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

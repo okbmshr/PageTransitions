@@ -8,7 +8,7 @@
 
 import XCTest
 
-class DrugTestUITests: XCTestCase {
+class PageTransitionsUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

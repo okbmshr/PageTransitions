@@ -12,8 +12,8 @@
 		E554BFEB1E3E31C00031463E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E554BFE91E3E31C00031463E /* Main.storyboard */; };
 		E554BFED1E3E31C00031463E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E554BFEC1E3E31C00031463E /* Assets.xcassets */; };
 		E554BFF01E3E31C00031463E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E554BFEE1E3E31C00031463E /* LaunchScreen.storyboard */; };
-		E554BFFB1E3E31C00031463E /* DrugTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E554BFFA1E3E31C00031463E /* DrugTestTests.swift */; };
-		E554C0061E3E31C00031463E /* DrugTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E554C0051E3E31C00031463E /* DrugTestUITests.swift */; };
+		E554BFFB1E3E31C00031463E /* PageTransitionsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E554BFFA1E3E31C00031463E /* PageTransitionsTests.swift */; };
+		E554C0061E3E31C00031463E /* PageTransitionsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E554C0051E3E31C00031463E /* PageTransitionsUITests.swift */; };
 		E57BF8241E629B77005321D0 /* CustomClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57BF8231E629B77005321D0 /* CustomClass.swift */; };
 /* End PBXBuildFile section */
 
@@ -43,10 +43,10 @@
 		E554BFEF1E3E31C00031463E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E554BFF11E3E31C00031463E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E554BFF61E3E31C00031463E /* PageTransitionsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PageTransitionsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E554BFFA1E3E31C00031463E /* DrugTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrugTestTests.swift; sourceTree = "<group>"; };
+		E554BFFA1E3E31C00031463E /* PageTransitionsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTransitionsTests.swift; sourceTree = "<group>"; };
 		E554BFFC1E3E31C00031463E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E554C0011E3E31C00031463E /* PageTransitionsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PageTransitionsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E554C0051E3E31C00031463E /* DrugTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrugTestUITests.swift; sourceTree = "<group>"; };
+		E554C0051E3E31C00031463E /* PageTransitionsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTransitionsUITests.swift; sourceTree = "<group>"; };
 		E554C0071E3E31C00031463E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E57BF8231E629B77005321D0 /* CustomClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -79,9 +79,9 @@
 		E554BFD91E3E31BF0031463E = {
 			isa = PBXGroup;
 			children = (
-				E554BFE41E3E31C00031463E /* DragTest */,
-				E554BFF91E3E31C00031463E /* DragTestTests */,
-				E554C0041E3E31C00031463E /* DragTestUITests */,
+				E554BFE41E3E31C00031463E /* PageTransitions */,
+				E554BFF91E3E31C00031463E /* PageTransitionsTests */,
+				E554C0041E3E31C00031463E /* PageTransitionsUITests */,
 				E554BFE31E3E31C00031463E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -96,7 +96,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E554BFE41E3E31C00031463E /* DragTest */ = {
+		E554BFE41E3E31C00031463E /* PageTransitions */ = {
 			isa = PBXGroup;
 			children = (
 				E554BFE51E3E31C00031463E /* AppDelegate.swift */,
@@ -107,27 +107,27 @@
 				E554BFF11E3E31C00031463E /* Info.plist */,
 				E57BF8231E629B77005321D0 /* CustomClass.swift */,
 			);
-			name = DragTest;
+			name = PageTransitions;
 			path = DrugTest;
 			sourceTree = "<group>";
 		};
-		E554BFF91E3E31C00031463E /* DragTestTests */ = {
+		E554BFF91E3E31C00031463E /* PageTransitionsTests */ = {
 			isa = PBXGroup;
 			children = (
-				E554BFFA1E3E31C00031463E /* DrugTestTests.swift */,
+				E554BFFA1E3E31C00031463E /* PageTransitionsTests.swift */,
 				E554BFFC1E3E31C00031463E /* Info.plist */,
 			);
-			name = DragTestTests;
+			name = PageTransitionsTests;
 			path = DrugTestTests;
 			sourceTree = "<group>";
 		};
-		E554C0041E3E31C00031463E /* DragTestUITests */ = {
+		E554C0041E3E31C00031463E /* PageTransitionsUITests */ = {
 			isa = PBXGroup;
 			children = (
-				E554C0051E3E31C00031463E /* DrugTestUITests.swift */,
+				E554C0051E3E31C00031463E /* PageTransitionsUITests.swift */,
 				E554C0071E3E31C00031463E /* Info.plist */,
 			);
-			name = DragTestUITests;
+			name = PageTransitionsUITests;
 			path = DrugTestUITests;
 			sourceTree = "<group>";
 		};
@@ -278,7 +278,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E554BFFB1E3E31C00031463E /* DrugTestTests.swift in Sources */,
+				E554BFFB1E3E31C00031463E /* PageTransitionsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -286,7 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E554C0061E3E31C00031463E /* DrugTestUITests.swift in Sources */,
+				E554C0061E3E31C00031463E /* PageTransitionsUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

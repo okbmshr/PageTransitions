@@ -14,6 +14,7 @@
 		E554BFF01E3E31C00031463E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E554BFEE1E3E31C00031463E /* LaunchScreen.storyboard */; };
 		E554BFFB1E3E31C00031463E /* DrugTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E554BFFA1E3E31C00031463E /* DrugTestTests.swift */; };
 		E554C0061E3E31C00031463E /* DrugTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E554C0051E3E31C00031463E /* DrugTestUITests.swift */; };
+		E57BF8241E629B77005321D0 /* CustomClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = E57BF8231E629B77005321D0 /* CustomClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E554C0011E3E31C00031463E /* DragTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DragTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E554C0051E3E31C00031463E /* DrugTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrugTestUITests.swift; sourceTree = "<group>"; };
 		E554C0071E3E31C00031463E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E57BF8231E629B77005321D0 /* CustomClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E554BFEC1E3E31C00031463E /* Assets.xcassets */,
 				E554BFEE1E3E31C00031463E /* LaunchScreen.storyboard */,
 				E554BFF11E3E31C00031463E /* Info.plist */,
+				E57BF8231E629B77005321D0 /* CustomClass.swift */,
 			);
 			name = DragTest;
 			path = DrugTest;
@@ -265,6 +268,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E57BF8241E629B77005321D0 /* CustomClass.swift in Sources */,
 				E554BFE81E3E31C00031463E /* ViewController.swift in Sources */,
 				E554BFE61E3E31C00031463E /* AppDelegate.swift in Sources */,
 			);

@@ -3,6 +3,7 @@
 画面イメージ　　
 
 https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png
+
 https://github.com/masahiro-okubo/PageTransitions/tree/master/img/遷移後画面.png
 
 

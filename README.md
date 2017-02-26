@@ -1,5 +1,10 @@
 # PageTransitions　　
 
+画面イメージ
+![エビフライトライアングル](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png "サンプル")
+
+![エビフライトライアングル](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/遷移後画面.png "サンプル")
+
 下記サイト参考　　
 
 ###Xcodeで超簡単なページ遷移アプリを作ってみる　　

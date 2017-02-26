@@ -1,9 +1,10 @@
 # PageTransitions　　
 
-画面イメージ
-![エビフライトライアングル](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png "サンプル")
+画面イメージ　　
 
-![エビフライトライアングル](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/遷移後画面.png "サンプル")
+![メイン画面](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/メイン画面.png)
+
+![遷移後画面](https://github.com/masahiro-okubo/PageTransitions/tree/master/img/遷移後画面.png)
 
 下記サイト参考　　
 

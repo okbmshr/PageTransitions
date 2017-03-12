@@ -1,4 +1,6 @@
-# PageTransitions　　
+# PageTransitions
+-Swift3
+-Xcode8.1
 
 画面イメージ　　
 
